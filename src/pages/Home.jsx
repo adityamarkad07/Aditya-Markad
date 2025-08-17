@@ -106,7 +106,7 @@ const Home = () => {
         <div className="flex-1 mt-10 md:mt-0 flex justify-center">
           <div className="relative rounded-full p-1 bg-gradient-to-r from-blue-400 to-blue-700 shadow-lg hover:shadow-2xl transition duration-500 animate-popIn">
             <img
-              src="src/pages/m.png"
+              src="/m.png"
               alt="Aditya Markad"
               className="rounded-full h-[300px] md:h-[450px] lg:h-[500px] w-[300px] md:w-[450px] lg:w-[500px] object-cover hover:scale-105 transition-transform duration-500"
             />

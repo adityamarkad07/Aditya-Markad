@@ -50,26 +50,6 @@ const projects = [
     },
     featured: true
   },
-  {
-    id: 2,
-    title: "Fusion 360",
-    category: "Mechanical Engineering",
-    description: "Fusion 360 is a powerful CAD/CAM/CAE software that allows you to design, simulate, and manufacture products. It is a versatile tool that can be used for a variety of applications, from simple to complex.",
-    image: "/catia.png",
-    icon: "🛠️",
-    features: [
-      "Complex component modeling and assembly design",
-      "Engineering analysis and simulation",
-      "Manufacturing workflow optimization",
-      "Technical documentation and drawings"
-    ],
-    technologies: ["CATIA V5", "3D Modeling", "Assembly Design", "Engineering Analysis"],
-    links: {
-      view: "#",
-      download: "/catia_design.CATPart"
-    },
-    featured: true
-  },
 ];
 
 const Home = () => {

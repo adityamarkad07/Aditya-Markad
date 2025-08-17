@@ -20,15 +20,15 @@ const contacts = [
   {
     icon: <FaPhoneAlt className="text-blue-700 text-xl" />,
     label: "Phone",
-    value: "+91 98765 43210",
-    link: "tel:+919876543210",
+    value: "+91 7038441589",
+    link: "tel:+917038441589",
     color: "text-green-700",
   },
   {
     icon: <FaGithub className="text-gray-800 text-xl" />,
     label: "GitHub",
-    value: "github.com/yourusername",
-    link: "https://github.com/yourusername",
+    value: "adityamarkad07",
+    link: "https://github.com/adityamarkad07",
     color: "text-green-700",
   },
   {
@@ -45,13 +45,7 @@ const contacts = [
     link: "https://instagram.com/adit.yamarkad",
     color: "text-green-700",
   },
-  {
-    icon: <FaTwitter className="text-blue-400 text-xl" />,
-    label: "Twitter",
-    value: "@yourtwitter",
-    link: "https://twitter.com/yourtwitter",
-    color: "text-green-700",
-  },
+
 ];
 
 const formInitial = { name: "", email: "", message: "" };

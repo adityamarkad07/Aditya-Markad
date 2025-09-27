@@ -23,7 +23,7 @@ const skills = [
   {
     title: "Programming",
     description:
-      "C++, C, Python, HTML, CSS — building both functional and visually appealing projects.",
+      "C++, C, Python, HTML, CSS, Java — building both functional and visually appealing projects.",
     icon: "💻",
   },
 ];

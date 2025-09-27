@@ -3,7 +3,7 @@ import { useSmoothScroll } from "../hooks/useSmoothScroll";
 
 const skills = [
   {
-    title: "CATIA",
+    title: "CATIA & SolidWorks",
     description:
       "Expertise in designing complex mechanical components and assemblies with precision.",
     icon: "⚙️",
@@ -35,7 +35,7 @@ const projects = [
     title: "CATIA V5 Mechanical Design",
     category: "Mechanical Engineering",
     description: "A comprehensive mechanical design project showcasing advanced CAD modeling techniques, assembly design, and engineering analysis using CATIA V5. This project demonstrates precision engineering and innovative problem-solving approaches in mechanical design.",
-    image: "/catia.png",
+    image: "public/Scar.png",
     icon: "⚙️",
     features: [
       "Complex component modeling and assembly design",
@@ -66,11 +66,11 @@ const Home = () => {
       <section id="home" className="flex flex-col md:flex-row items-center justify-between px-6 md:px-16 lg:px-32 xl:px-40 text-center md:text-left gap-10 py-16">
         {/* Text Section */}
         <div className="flex-1 space-y-6 mt-10 animate-fadeIn">
-          <h1 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-blue-500 to-blue-800 text-transparent bg-clip-text leading-tight animate-slideUp">
+          <h1 className="text-4xl md:text-4.5xl font-bold bg-gradient-to-r from-blue-500 to-blue-800 text-transparent bg-clip-text leading-tight animate-slideUp">
             Hi, I'm Aditya Markad
           </h1>
           <p className="text-gray-700 text-lg text-justify md:text-xl max-w-md mx-auto md:mx-0">
-            A passionate <b>Mechanical Engineer</b> with strong expertise in CAD tools, product design, and programming. My work focuses on connecting the worlds of engineering and technology to create practical, innovative, and efficient solutions. With a keen eye for detail and a problem-solving mindset, I strive to design products that are both functional and impactful. I believe in turning ideas into reality and collaborating to build solutions that make a difference.
+            A passionate <b>Mechanical Engineer</b> with strong skills and knowledge in CAD tools (CATIA V5, Fusion 360, SolidWorks, AutoCAD) and experience in C, C++, HTML, and CSS. I specialize in product design, combining engineering and technology to create practical and innovative solutions. With strong problem-solving and communication skills, I aim to design products that are both functional and impactful.
             <br /> <br />
             Let's build something amazing together!
           </p>
@@ -101,10 +101,7 @@ const Home = () => {
             About Me
           </h2>
           <p className="text-gray-700 leading-relaxed text-lg text-justify">
-            I am a Mechanical Engineer with a strong foundation in design tools like CATIA, Fusion 360,
-            and AutoCAD. Alongside engineering, I code in C++, Java, Python, and build modern web
-            applications using React, HTML, and CSS. I aim to create designs that are both functional
-            and innovative, bridging the gap between technical precision and creative problem-solving.
+           I am a dedicated Mechanical Engineer who enjoys designing and building practical solutions. With a solid foundation in CAD tools and programming, I bring both creativity and technical knowledge to my work.I integrate design and technology to deliver high-quality results. My approach emphasizes precision, functionality, and impact, turning concepts into reliable outcomes that add value in real-world applications.
           </p>
         </div>
       </section>
@@ -114,11 +111,11 @@ const Home = () => {
         <h3 className="text-3xl font-bold bg-gradient-to-r from-blue-500 to-blue-800 text-transparent bg-clip-text">
           Career Highlights
         </h3>
-        <p className="text-gray-600 text-lg">
+        <p className="text-gray-700 text-lg">
           Mechanical Engineering Graduate with experience in CAD design and
           programming, blending creativity with technical expertise.
         </p>
-        <p className="text-gray-600">
+        <p className="text-gray-700 text-lg">
           Worked on projects involving product modeling, simulation, and
           automation. Always eager to learn and take on new challenges 🚀.
         </p>

@@ -35,7 +35,7 @@ const projects = [
     title: "CATIA V5 Mechanical Design",
     category: "Mechanical Engineering",
     description: "A comprehensive mechanical design project showcasing advanced CAD modeling techniques, assembly design, and engineering analysis using CATIA V5. This project demonstrates precision engineering and innovative problem-solving approaches in mechanical design.",
-    image: "public/Scar.png",
+    image: "/Scar.png",
     icon: "⚙️",
     features: [
       "Complex component modeling and assembly design",

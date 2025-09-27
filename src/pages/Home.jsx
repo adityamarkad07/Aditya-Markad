@@ -43,7 +43,7 @@ const projects = [
       "Manufacturing workflow optimization",
       "Technical documentation and drawings"
     ],
-    technologies: ["CATIA V5", "3D Modeling", "Assembly Design", "Engineering Analysis"],
+    technologies: ["CATIA V5","Fusion 360", "3D Modeling", "Assembly Design", "Engineering Analysis"],
     links: {
       view: "#",
       download: "/catia_design.CATPart"
